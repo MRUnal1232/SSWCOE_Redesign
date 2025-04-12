@@ -1,0 +1,103 @@
+Objective:
+Design a modern, formal, and user-friendly college website with a navy blue and white color theme. The website should have a smooth, professional layout with well-organized components, ensuring seamless navigation and a polished appearance with all fade in effects synochromized.
+
+Key Requirements:
+1. Color Scheme & Theme:
+Primary Colors: Navy Blue (#000080 or similar) and White (#FFFFFF)
+
+Secondary Accents: Light gray (#F5F5F5) or gold (#FFD700) for highlights (optional)
+
+Clean, formal, and academic aesthetic with a professional feel
+
+Navigation Bar (Round curves Transparent):
+Buttons:
+1. Home (Landing Page)
+
+2. About
+
+Principal's Message
+President's Message
+About Trust
+Our Vision & Mission
+About SSWCOE
+Information Brochure
+
+3. Admissions
+
+First Year B.Tech
+Direct Second Year B.Tech
+Fees Structure 2023-24
+Admission Enquiry
+Against CAP Admissions (F.Y.B.Tech)
+
+4. Departments
+
+General Science & Engineering
+Computer Science & Engineering (AI & DS)
+Computer Science & Engineering
+Information Technology
+Electronics & Telecommunication
+Electrical Engineering
+Training & Placement
+Training & Placement Rules & Regulations
+
+5. Our Placements
+
+TPO Team
+MOUs
+TPO Activities
+
+
+6. Facilities
+
+Library
+Hostel
+SC/ST/OBC Complaint Form
+NSS
+
+7. E-learning
+
+NPTEL
+Gate Tutor
+Spoken Tutor
+Clubs
+
+8. Exam Section
+
+9. High Level Committee
+
+10. Carrer
+
+11. Contact
+Dropdown menus for subpages (hover or click-based)
+
+Smooth hover effects (e.g., color fade, underline animation)
+
+
+3 . Layout & Components:
+Hero Section (Homepage):
+
+ADD a Auto Slideable Image as College posters
+
+add below 2 sections as news and events which display those onto the homepage page only and also add read more to redirect it to its orginal page
+
+add Our progams i.e Add 6 copmonents for each deparment and redirect it to their departments
+
+add 3 copmonents for president principal and trustee of college and redirect it on their page
+
+add review section as comments or public reviews about college and also add a component as Our recruiter which just display an image
+
+
+Scrollable ticker or cards for latest updates
+
+ Add Footer as Alumani Students count , number of students enrolled , Number of students passed :
+ Add anothor Main Footer which contains important sites , quick links and committe 
+add Thank you Footer at Last 
+
+4. Functionality:
+Responsive Design (Mobile, Tablet, Desktop)
+
+Fast Loading Speed (Optimized images, minimal heavy scripts)
+
+Smooth Transitions (Page scroll, button clicks)
+
