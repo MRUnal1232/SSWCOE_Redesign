@@ -164,7 +164,7 @@ export default function Navbar() {
                             scrolled ? "text-navy-blue" : "text-white",
                           )}
                         >
-                          {item.title}
+                          <span className="text-navy-blue">{item.title}</span>
                         </NavigationMenuTrigger>
                         <NavigationMenuContent>
                           <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px] bg-white rounded-lg shadow-lg">
@@ -192,7 +192,7 @@ export default function Navbar() {
                             scrolled ? "text-navy-blue" : "text-white",
                           )}
                         >
-                          {item.title}
+                          <span className="text-navy-blue">{item.title}</span>
                         </NavigationMenuLink>
                       </Link>
                     )}
